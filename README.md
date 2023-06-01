@@ -48,4 +48,13 @@ You will only have access to the shader itself, a lot of features might not even
 
 ---
 
+(Optional)
+
+- To change texture resolution, you have to change the resolution of the texture itself, then click Update in the MicroSplatConfig
+
+![5](https://github.com/TealDealMeal/MicroSplatVRChat/assets/97361953/9e60428e-176e-491a-a3ab-dedbdacee593)
+![5b](https://github.com/TealDealMeal/MicroSplatVRChat/assets/97361953/9b21030f-6294-4cfd-a314-f3e84b429230)
+
+--
+
 - That's all, have fun experimenting with MicroSplat!
