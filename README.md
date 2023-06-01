@@ -18,11 +18,12 @@ You will only have access to the shader itself, a lot of features might not even
 
 - Open MicroSplatTerrain.cs and find the line
 
-#float basemapDistance = 0;
+```float basemapDistance = 0;```
+
 
 - and replace it with
 
-#float basemapDistance = terrain.basemapDistance; //0;
+```float basemapDistance = terrain.basemapDistance; //0;```
 
 ---
 
