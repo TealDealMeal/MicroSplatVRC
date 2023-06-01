@@ -57,4 +57,4 @@ You will only have access to the shader itself, a lot of features might not even
 
 ---
 
-- That's all, have fun experimenting with MicroSplat!
+- That's all, good luck experimenting with MicroSplat!
