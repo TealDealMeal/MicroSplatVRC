@@ -12,28 +12,28 @@ You will only have access to the shader itself, a lot of features might not even
 
 ### Setup:
 
-Install the script, it works automatically when building a world.
+- Install the script, it works automatically when building a world.
 
 ---
 
-Open MicroSplatTerrain.cs and find the line
+- Open MicroSplatTerrain.cs and find the line
 
-float basemapDistance = 0;
+#float basemapDistance = 0;
 
-and replace it with
+- and replace it with
 
-float basemapDistance = terrain.basemapDistance; //0;
-
----
-
-Now change the "Base Map Dist." on the Terrain to whatever value you need, as MicroSplat likely set it to 0
+#float basemapDistance = terrain.basemapDistance; //0;
 
 ---
 
-Lastly, you want to check your "Terrain Width and Length", as you need to set these same values in MicroSplat Shader Generator's "Global UV Scale", otherwise the textures in the editor will show up differently compared to than in-game
+- Now change the "Base Map Dist." on the Terrain to whatever value you need, as MicroSplat likely set it to 0
+
+---
+
+- Lastly, you want to check your "Terrain Width and Length", as you need to set these same values in MicroSplat Shader Generator's "Global UV Scale", otherwise the textures in the editor - will show up differently compared to than in-game
 - X for Width
 - Y for Length
 
 ---
 
-Have fun experimenting!
+- Have fun experimenting!
