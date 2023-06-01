@@ -1,4 +1,4 @@
-# MicroSplatVRChat
+# MicroSplatVRC
 This script allows you to use the MicroSplat shader in VRChat
 
 You will only have access to the shader itself, a lot of features might not even work, I haven't done enough testing, you will probably have to play around with it and see for yourself.
