@@ -16,10 +16,13 @@ You will only have access to the shader itself, a lot of features might not even
 
 ---
 
-- Open MicroSplatTerrain.cs and find the line
+- Open MicroSplatTerrain.cs
+
+![1](https://github.com/TealDealMeal/MicroSplatVRChat/assets/97361953/8ee55024-ae89-4b3d-bb7e-f16e1d6c38d1)
+
+- Now find the line:
 
 ```float basemapDistance = 0;```
-
 
 - and replace it with
 
