@@ -58,3 +58,5 @@ You will only have access to the shader itself, a lot of features might not even
 ---
 
 - That's all, have fun experimenting with MicroSplat!
+
+![image](https://github.com/TealDealMeal/MicroSplatVRC/assets/97361953/0263c0c8-5ac0-490e-90d1-d91309b49cdc)
