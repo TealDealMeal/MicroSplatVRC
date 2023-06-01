@@ -12,7 +12,7 @@ You will only have access to the shader itself, a lot of features might not even
 
 ### Setup:
 
-- Install the script, it works automatically when building a world.
+- Install the latest release, the script will automatically run when building a world.
 
 ---
 
